@@ -1,0 +1,21 @@
+# Christian Elaigwu Junior — Game Developer Portfolio
+
+A responsive, single-page portfolio website with an ember-inspired visual theme.
+
+## Files
+- `index.html` — the complete portfolio website.
+
+## Preview locally
+1. Download and extract the ZIP.
+2. Open `index.html` in a browser.
+
+No build tools or dependencies are required.
+
+## Before sending this to a recruiter
+- Add 3–5 original screenshots or a short gameplay trailer for Ochanya.
+- Add a short description of your exact role and what you personally built.
+- Include only tools, engines, and programming languages you can confidently discuss.
+- Consider adding a second project or a short development breakdown when available.
+
+## Publish it online
+You can publish this as a GitHub Pages site by creating a repository, uploading `index.html`, then enabling Pages in the repository settings. Follow GitHub's current Pages documentation for the exact steps.
